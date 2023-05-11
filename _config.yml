@@ -13,7 +13,7 @@ name                     : &name "qihan"
 description              : &description "A human."
 url                      : "https://b1uee.github.io"
 baseurl                  : "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "B1uee/B1uee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
